@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Author
-permalink: /about/
-tags: about
+permalink: /author/
+tags: author
 ---
 
 Hi, there! I am Kartikey Tewari, a computer science engineering student at National Institute of Technology (NIT), Hamirpur pursuing Bachelors of Technology. I am a competitive programmer and a web developer. I also like to work on data structures and algorithms, and in the process of publishing a research paper on the same. I like to code, solve rubik's cube and listen to music. This is a blog where I write about the projects and technologies that I am working on.
