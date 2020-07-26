@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "journalism: Sober or Yellow"
+title: "Journalism: Sober or Yellow"
 date: 2020-07-26 18:05
 categories: Jekyll mixyll
 ---
