@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Notes
-permalink: /note/
-tags: note
+permalink: /notes/
+tags: notes
 ---
 
 <h1> Art and Culture </h1>
-<a href="notes/hindi_literature"> Hindi Literature </a>
+<a href="hindi_literature"> Hindi Literature </a>
