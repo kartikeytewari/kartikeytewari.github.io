@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Notes
+title: 
 permalink: /note/
 tags: note
 ---
 
-<a href="/note/first"> hello </a>
+Art and Culture
+<a href="/notes/hindi_literature"> Hindi Literature </a>
