@@ -7,7 +7,7 @@ categories: Jekyll mixyll
 ---
 
 GUI text processors like `Microsoft Word` or `Libra writer`, have there appeal. But the fun one gets in writing in `Latex` is beyond comparison. Markdown seems to be a good compromise between the two, as it neither have obscure syntax nor requires pre-compilation. Besides it can be customized quite heavily. \\
-But writing complex mathematical equations or writing algorithms, can be tough in markdown. So, Latex seems to be the only easy option there. Packages for compiling Latex such as texlive is great, but the ammout of pre-processing is quite unnecessary. Things get even murkier when bibliography/refrences files also comes up in the picture. I was looking for automation tools for building latex but could'nt find something as easy and light-weight as I wanted. So, I went ahead and wrote a script for doing the same. It has now morphed with much more funcitonality, and can do a lot more. It seems to be very close to a full-automation solution for writing latex. It can be augmented by some flags. A short summary of there functionality is as follows: 
+But writing complex mathematical equations or writing algorithms, can be tough in markdown. So, Latex seems to be the only easy option there. Packages for compiling Latex such as texlive is great, but the amount of pre-processing is quite unnecessary. Things get even murkier when bibliography/references files also comes up in the picture. I was looking for automation tools for building latex but couldn't find something as easy and light-weight as I wanted. So, I went ahead and wrote a script for doing the same. It has now morphed with much more functionality, and can do a lot more. It seems to be very close to a full-automation solution for writing latex. It can be augmented by some flags. A short summary of there functionality is as follows: 
 <br>
 <ul>
     <li>
@@ -15,11 +15,11 @@ But writing complex mathematical equations or writing algorithms, can be tough i
     </li>
     <br>
     <li>
-        The -bl flag or --build_large flags build the latex with auxillary file for bibliography. The build takes some time, and is recommended for papers with references. The file name passed with command should be the name of .tex and .aux file.
+        The -bl flag or --build_large flags build the latex with axillary file for bibliography. The build takes some time, and is recommended for papers with references. The file name passed with command should be the name of .tex and .aux file.
     </li>
     <br>
     <li>
-        The -o or --open flag opens the build pdf in google-chrome.
+        The -o or --open flag opens the build pdf in Google-chrome.
     </li>
     <br>
     <li>
@@ -31,7 +31,7 @@ But writing complex mathematical equations or writing algorithms, can be tough i
     </li>
     <br>
     <li>
-        The -h or --help flag opens a quick manual for refrencing in the less editor.
+        The -h or --help flag opens a quick manual for referencing in the less editor.
     </li>
     <br>
 </ul>
