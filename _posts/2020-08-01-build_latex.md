@@ -19,7 +19,7 @@ But writing complex mathematical equations or writing algorithms, can be tough i
     </li>
     <br>
     <li>
-        The -o or --open flag opens the build pdf in Google-chrome.
+        The -o or --open flag opens the built pdf in default pdf viewer.
     </li>
     <br>
     <li>
