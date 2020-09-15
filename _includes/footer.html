@@ -15,3 +15,29 @@
       navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
     }
 </script>
+
+
+<!-- Cookie complience banner from osana -->
+<style>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#edeff5",
+        "text": "#838391"
+      },
+      "button": {
+        "background": "transparent",
+        "text": "#4b81e8",
+        "border": "#4b81e8"
+      }
+    },
+    "content": {
+      "dismiss": ""
+    }
+});
+</script>
