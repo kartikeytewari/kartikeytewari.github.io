@@ -3,6 +3,10 @@ layout: default
 ---
 {% assign posts_count = paginator.posts | size %}
 
+<style>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+</style>
+
 <div class="home">
   {% if posts_count > 0 %}
     <div class="posts">
@@ -31,4 +35,19 @@ layout: default
   {% else %}
     <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
   {% endif %}
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+  <script>
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000"
+        },
+        "button": {
+          "background": "#f1d600"
+        }
+      }
+    });
+  </script>
 </div>
