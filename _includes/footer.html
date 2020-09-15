@@ -2,7 +2,7 @@
   <div class="measure">
     <div class="left">
       <small>
-        &copy; Kartikey Tewari. MIT License {{ site.time | date:"%Y" }}. <br>
+        &copy; Kartikey Tewari. All rights reserved. MIT License {{ site.time | date:"%Y" }}. <br>
       </small>
     </div>
     {% if site.show_social_icons %}
@@ -18,26 +18,24 @@
 
 
 <!-- Cookie complience banner from osana -->
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#edeff5"
+    }
+  },
+  "content": {
+    "message": "The website uses cookies to ensure you get the best experience on my website."
+  }
+});
+</script>
+
 <style>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </style>
-
-<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-<script>
-  window.cookieconsent.initialise({
-    "palette": {
-      "popup": {
-        "background": "#edeff5",
-        "text": "#838391"
-      },
-      "button": {
-        "background": "transparent",
-        "text": "#4b81e8",
-        "border": "#4b81e8"
-      }
-    },
-    "content": {
-      "dismiss": ""
-    }
-});
-</script>
