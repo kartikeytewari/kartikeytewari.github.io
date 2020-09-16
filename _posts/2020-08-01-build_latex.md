@@ -23,6 +23,10 @@ But writing complex mathematical equations or writing algorithms, can be tough i
     </li>
     <br>
     <li>
+        The -c or --clean flag removes all the temporary files formed while building the latex.
+    </li>
+    <br>
+    <li>
         The -f or --find flag provides a very crucial functionality. Many times when compiling latex we encounter that some .sty file is not installed. The package that contains it, can be hard to pin-point. This is where -f flag comes into play. Simply run <em>build_latex -f style_name_here</em> and the package where it is found will be shown.
     </li>
     <br>
@@ -34,6 +38,12 @@ But writing complex mathematical equations or writing algorithms, can be tough i
         The -h or --help flag opens a quick manual for referencing in the less editor.
     </li>
     <br>
+    <li>
+        -p_${template_type}
+        This flag would prepolate the latex file with standard template. The supported template_type for now are:
+        article, beamer, letter, cv and report
+    </li>
+    <br>
 </ul>
 
-Some flags are under development and should be released soon. The script is tested in ubuntu-20.04 LTS on WSL2 and runs fine. If you find any bug or have a suggestion then feel free to ping me. The source code is open-source and licensed under `GNU General Public License - version 3`. The source code can be found <a href="https://github.com/kartikeytewari/build_latex"> here </a>.
+Some flags are under development and should be released soon. The script is tested in ubuntu-20.04 LTS on WSL2 and runs fine. If you find any bug or have a suggestion then feel free to ping me. The source code is open-source and licensed under `GNU General Public License - version 3`. Feel free to give suggestions and raise PR for further development of the project. The source code can be found <a href="https://github.com/kartikeytewari/build_latex"> here </a>.
