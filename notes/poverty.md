@@ -17,4 +17,4 @@ That day I realized the gravity of the situation. About 1/3 of people who sleep 
 <br><br>
 If we as a country do not wish to be a nation of failed ambitions then we must amend our activities. We must start evicting poverty as fast as possible, for men untaught and in the whims of poverty are a burden to the growth of the country.
 <br>
-It is high time we amend our priorities and make good decisions as a society, otherwise the future of India may not be very different from that of other failed nations of the likes of Czechoslovakia and the 20th century Japan.
+It is high time we amend our priorities and start making good decisions as a society.
