@@ -18,7 +18,7 @@ The poems written in Hindi and it's sister languages can be grouped into four di
     <li> Bhakti Kal (14th century to 17th century)</li>
     Bhakti Kal saw the emergence of two major sections of ideologies. The first section prophesied nirgun god, by believing in a formless entity. Guru Nanak Dev Ji and Sant Kabir endorsed monotheism. Sufi saints such as Sant Jayasi were also very prominent writers in the period.
     <br>
-    The sagun branch of ideology believed in a human incarnation of god. Saints such as Tulsidas, Surdas and Mirabai wrote very compelling poems. The prominent languages for writing was either Punjabi (gurumukhi) or awadhi (Devanagari).
+    The sagun branch of ideology believed in a human incarnation of god. Saints such as Tulsidas ji, Surdas ji and Mirabai ji wrote very compelling poems. The prominent languages for writing was either Punjabi (gurumukhi) or awadhi (Devanagari).
     <br><br>
     <li> Ritikal (17th century to 19th century)</li>
     Ritikal is written in the backdrop of turmoil times, when Indian heartland was plagued by attacks from north-west and constant grappling policies of the Britishers. Many rasa, alankars and nayak-nayika bhedas have been written in the period. The prominent dialect of composition was Brijbhasa.
