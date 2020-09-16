@@ -3,8 +3,8 @@ title:       Blog
 email:       kartikeya30@gmail.com
 author:      Kartikey Tewari
 description: "This is a personal blog of mine"
-baseurl:     "/"
-url:         "http://kartikeytewari.github.io/blog"
+baseurl:     "/blog"
+url:         "http://kartikeytewari.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
