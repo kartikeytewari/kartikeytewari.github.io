@@ -1,1 +1,1 @@
-cmd.exe /c start wsl bundle exec jekyll serve --watch --baseurl ''
+bundle exec jekyll serve --watch --baseurl ''
